@@ -1,0 +1,25 @@
+HEADER    PROTEIN                                 09-AUG-19   NONE
+TITLE     NULL                                                        
+COMPND    MOLECULE: tryptophan                                        
+SOURCE    NULL                                                        
+KEYWDS    NULL                                                        
+EXPDTA    NULL                                                        
+AUTHOR    Marvin                                                      
+REVDAT   1   09-AUG-19         0                                  
+HETATM    1  N   UNK     0       2.618  -5.658  -0.444  0.00  0.00           N+0
+HETATM    2  C   UNK     0       3.592  -4.739   0.165  0.00  0.00           C+0
+HETATM    3  C   UNK     0       4.122  -5.261   1.530  0.00  0.00           C+0
+HETATM    4  C   UNK     0       3.034  -5.484   2.512  0.00  0.00           C+0
+HETATM    5  C   UNK     0       2.547  -4.562   3.444  0.00  0.00           C+0
+HETATM    6  N   UNK     0       1.526  -5.108   4.129  0.00  0.00           N+0
+HETATM    7  C   UNK     0       1.325  -6.357   3.684  0.00  0.00           C+0
+HETATM    8  C   UNK     0       2.255  -6.628   2.679  0.00  0.00           C+0
+HETATM    9  C   UNK     0       2.271  -7.879   2.031  0.00  0.00           C+0
+HETATM   10  C   UNK     0       1.318  -8.846   2.409  0.00  0.00           C+0
+HETATM   11  C   UNK     0       0.375  -8.565   3.426  0.00  0.00           C+0
+HETATM   12  C   UNK     0       0.374  -7.313   4.078  0.00  0.00           C+0
+HETATM   13  C   UNK     0       4.687  -4.516  -0.801  0.00  0.00           C+0
+HETATM   14  O   UNK     0       4.946  -3.272  -1.263  0.00  0.00           O+0
+HETATM   15  O   UNK     0       5.386  -5.467  -1.220  0.00  0.00           O+0
+MASTER        0    0    0    0    0    0    0    0   15    0    0    0
+END
