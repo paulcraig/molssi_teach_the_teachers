@@ -1,6 +1,8 @@
 """
 geometry_analysis.py
 This module contains the geometry analysis project.
+
+Author: Paul A. Craig
 """
 
 # Format: docstring, imports, functions, code
